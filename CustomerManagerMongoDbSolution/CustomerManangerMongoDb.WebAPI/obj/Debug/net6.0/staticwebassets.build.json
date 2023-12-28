@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k5XCqK/NNmTd+v6/JHSSm7srw7LdX7sYxrjeYERSobM=",
+  "Source": "CustomerManangerMongoDb.WebAPI",
+  "BasePath": "_content/CustomerManangerMongoDb.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
